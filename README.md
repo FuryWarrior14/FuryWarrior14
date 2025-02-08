@@ -10,7 +10,7 @@ Currently, I am pursuing a Bachelor's degree in Computer Science at the National
 <a href="www.linkedin.com/in/facundo-moran-31b489331/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="www.www.instagram.com/facu_mora.19/">
+<a href="www.instagram.com/facu_mora.19/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a><br>
 
