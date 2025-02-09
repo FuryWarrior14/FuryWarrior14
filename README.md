@@ -14,7 +14,7 @@ Currently, I am pursuing a Bachelor's degree in Computer Science at the National
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a><br>
 
-<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Programming</b></h1>
+<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Programming</b></h2>
 
 <h4 > Languages </h4>
 <span> 
@@ -47,13 +47,15 @@ Currently, I am pursuing a Bachelor's degree in Computer Science at the National
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 </span>
 
+<h2 align="center"> Graphic Design </h2>
+
 <h4> Design </h4>
 <span>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </span>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
+  <h2 align="center"> 📈 Github Statistics </h2>
   
 <div align="center"> 
    <a href="">
